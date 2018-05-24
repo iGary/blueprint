@@ -128,3 +128,7 @@ its best chance at getting merged.
 ## License
 
 This project is made available under the [Apache-2.0 License](https://github.com/palantir/blueprint/blob/develop/LICENSE).
+
+## My Small Change
+
+Small addition.
